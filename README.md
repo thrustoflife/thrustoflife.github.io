@@ -1,11 +1,11 @@
-# Urban
+# thrustoflife
 
 Web Agency themed business template for Jekyll. Browse through a [live demo](https://teal-worm.cloudvent.net/).
 Increase the web presence of your agency with this configurable theme.
 
-![Urban template screenshot](images/_screenshot.png)
+![thrustoflife template screenshot](images/_screenshot.png)
 
-Urban was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
+thrustoflife was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
 
 Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
@@ -32,7 +32,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 ## Develop
 
-Urban was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+thrustoflife was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
 Install the dependencies with [Bundler](https://bundler.io/):
 
@@ -48,7 +48,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Urban is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+thrustoflife is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
 
 ### Posts
 
